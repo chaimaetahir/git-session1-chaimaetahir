@@ -25,3 +25,5 @@ git status
 
 ## Project Image
 ![Project Image](images/project.png)
+## Learning Objectives
+Learn how to use Git commits, branches, and GitHub.
