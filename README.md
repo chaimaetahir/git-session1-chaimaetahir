@@ -1,4 +1,7 @@
+## GitHub Update
 
+This section was added directly on GitHub to demonstrate
+the difference between git fetch and git pull.
 # Git & GitHub Fundamentals
 
 ## Student Information
