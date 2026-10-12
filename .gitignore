@@ -1,3 +1,4 @@
 local.env
 *.log
 !important.log
+*.tmp
